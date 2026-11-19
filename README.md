@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ahmed Bin Sohail! 👋
 
-<!--
-**Ahmed-BinSohail/Ahmed-BinSohail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at NED University of Engineering & Technology
 
-Here are some ideas to get you started:
+💻 Currently learning Python and building programming projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Interested in Artificial Intelligence and Machine Learning.
+- Currently strengthening my programming and problem-solving skills.
+- Building practical projects to improve my development skills.
+- Always eager to learn new technologies.
+
+### 🛠️ Technologies & Tools
+- **Languages:** Python, C
+- **Tools:** Git, GitHub, PyCharm, VS Code, DevC++
+- **Database:** MySQL
+- **Currently Learning:** Python, Machine Learning
+
+### 📂 Projects
+- Python Projects: https://github.com/Ahmed-BinSohail/Python-Projects)
+- ArenaCore program: https://github.com/Ahmed-BinSohail/ArenaCore
+### 📜 Certifications
+- Fundamentals Program - Nobel Internship - https://drive.google.com/file/d/1Wo3etNtWkqrIZQ4ZA-AJ1utp7VgB4ZES/view?usp=sharing
+- Python Certification – freeCodeCamp - https://www.freecodecamp.org/certification/ahmed_binsohail/python-v9
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/ahmed-bin-sohail-23b005256
+- GitHub:   https://github.com/Ahmed-BinSohail
