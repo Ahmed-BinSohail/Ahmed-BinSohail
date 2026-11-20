@@ -17,7 +17,7 @@
 - **Currently Learning:** Python, Machine Learning
 
 ### 📂 Projects
-- Python Projects: https://github.com/Ahmed-BinSohail/Python-Projects)
+- Python Projects: https://github.com/Ahmed-BinSohail/Python-Projects
 - ArenaCore program: https://github.com/Ahmed-BinSohail/ArenaCore
 ### 📜 Certifications
 - Fundamentals Program - Nobel Internship - https://drive.google.com/file/d/1Wo3etNtWkqrIZQ4ZA-AJ1utp7VgB4ZES/view?usp=sharing
